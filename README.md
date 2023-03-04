@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho no setor bancário, mas foco total na migração de carreira!
-- 🌱 Estou fazendo curso da escola DNC, para me tornar um dev full stack!  
+- 🌱 Estudo na escola DNC e estou iniciando alguns projetos pessoais! 
 
 
 <div style="display: inline_block"><br>
