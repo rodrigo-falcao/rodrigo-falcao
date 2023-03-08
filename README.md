@@ -1,13 +1,10 @@
-### Fala pessoal, me chamo Rodrigo falcão!
+
 
 <div>
   <a href="https://github.com/rodrigo-falcao">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-HTML" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
