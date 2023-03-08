@@ -1,9 +1,6 @@
 ### Fala pessoal, me chamo Rodrigo falcão!
 
 
-- 🔭 Hoje trabalho no setor bancário, mas foco total na migração de carreira!
-- 🌱 Estudo na escola DNC e estou iniciando alguns projetos pessoais! 
-
  <div>
   <a href="https://github.com/rodrigo-falcao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
