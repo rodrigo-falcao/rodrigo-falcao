@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Olá!!! Eu sou o Rodrigo Falcão! :wave:</h4>
+<h3 align="center">Olá!!! Eu sou o Rodrigo Falcão! :wave:</h3>
 
 ###
 
