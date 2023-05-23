@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Olá!!! Eu sou o Rodrigo Falcão! :wave:</h1>
+<h1 align="center">Fala galera!!! Me chamo Rodrigo Falcão! :wave:</h1>
 
 
 <br clear="both">
