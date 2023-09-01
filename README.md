@@ -1,4 +1,4 @@
-<br clear="both">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2300&pause=1200&color=7AC0FF97&background=4ECFB200&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Rodrigo+Falc%C3%A3o!;Tenho+30+anos+de+idade.;Sou+estudante+de+tecnologia!;Bem+vindo!)](https://git.io/typing-svg)<br><br>
 
