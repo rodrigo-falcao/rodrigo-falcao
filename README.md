@@ -10,7 +10,8 @@ Seja bem vindo! 👽
  <a href="https://www.linkedin.com/in/rodrigo-falcao-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### Linguagens e Tecnologias
+## Linguagens e Tecnologias
+
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
