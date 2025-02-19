@@ -2,7 +2,7 @@
 
 Olá!! tudo bem?<br>
 Me chamo **Rodrigo Falcão**, tenho 32 anos, sou formado em administração de empresas e pós graduado em Análise e desenvolvimento de Sistemas!<br>
-Atualmente estou fazendo alguns cursos voltados para área de programação executando alguns trabalhos como **`Desenvolvedor FullStack`**!<br> 
+Atualmente estou fazendo alguns cursos voltados para área de programação executando alguns projetos como **`Desenvolvedor FullStack`**!<br> 
 Aqui irei postar toda essa trajetória!<br>
 Seja bem vindo! 👽
 
