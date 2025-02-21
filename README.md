@@ -32,7 +32,7 @@ Seja bem vindo! 👽
     align="left" 
     alt="GitHub Stats" 
     height="150" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; padding-left: 30px;" 
     src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
