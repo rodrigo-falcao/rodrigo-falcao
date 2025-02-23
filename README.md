@@ -18,6 +18,7 @@ Seja bem vindo! 👽
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
@@ -27,7 +28,7 @@ Seja bem vindo! 👽
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -42,5 +43,5 @@ Seja bem vindo! 👽
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
 
