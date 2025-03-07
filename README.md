@@ -12,7 +12,6 @@ Seja bem vindo! 👽
 
 <br/>
 <br/>
-<br/>
 
 ### 🤖Linguagens e Tecnologias
 
