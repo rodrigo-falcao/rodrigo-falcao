@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Rodrigo Falcão 
 
-<img width="200px" align="right" src="https://github.com/user-attachments/assets/79bc931f-52d1-43df-99e7-477b9d712c43">
+<img width="200px" align="right" src="https://github.com/user-attachments/assets/49b02918-ee24-4c9b-8978-a96b30eab3cc">
 
 
 Olá, ser humano! Tudo certo por aí? 👋😄<br/>
@@ -56,7 +56,8 @@ Seja bem-vindo!👽
 <h3><strong>🚧 Área em construção</strong></h3>
 </div>
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br" /> 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br&hide=issues,contribs" /> 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" />
+	
 </div>
 
