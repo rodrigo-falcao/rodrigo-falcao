@@ -1,14 +1,30 @@
 # 👨🏼‍💻 Rodrigo Falcão 
 
-Olá!! tudo bem?👋<br>
-Me chamo **Rodrigo Falcão**, tenho 32 anos, sou formado em administração de empresas e pós graduado em Análise e desenvolvimento de Sistemas!<br>
-Atualmente, estou aprofundando meus conhecimentos na área de programação, realizando diversos cursos e desenvolvendo projetos como **`Desenvolvedor FullStack`**!<br> 
-Neste espaço, vou compartilhar toda a minha trajetória e aprendizados.<br>
-Seja bem vindo! 👽
+<img width="200px" align="right" src="https://github.com/user-attachments/assets/79bc931f-52d1-43df-99e7-477b9d712c43">
+
+
+Olá, ser humano! Tudo certo por aí? 👋😄<br/>
+Me chamo **Rodrigo Falcão**, tenho 32 anos!<br/>
+Sou formado em Administração de Empresas e <br/>
+pós-graduado em Análise e Desenvolvimento de Sistemas! 🎓💻<br/>
+Atualmente, estou imerso no maravilhoso e caótico universo da programação!<br/>
+Estudando, codando, quebrando a cabeça (e resolvendo também, tá?) <br/>
+pra me tornar um legítimo **`Desenvolvedor FullStack!`**!! 🚀🔥<br/>
+Aqui é o meu cantinho no GitHub onde compartilho minhas aventuras, <br/>
+aprendizados, e talvez até uns bugs lendários. 🐞<br/>
+Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tech comigo!<br/>
+Seja bem-vindo!👽
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/rodrigo-falcao-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rodrigo-falcao-ferreira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
+
 
 <br/>
 <br/>
@@ -32,19 +48,7 @@ Seja bem vindo! 👽
 ### 📊 Estatísticas
 
 <div align="center">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px; padding-left: 30px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br" /> 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
 
