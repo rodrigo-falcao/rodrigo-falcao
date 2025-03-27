@@ -56,7 +56,7 @@ Seja bem-vindo!👽
 <h3><strong>🚧 Área em construção</strong></h3>
 </div>
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br&hide=contribs" /> 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br" /> 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" />
 	
 </div>
