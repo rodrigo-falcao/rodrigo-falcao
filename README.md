@@ -28,7 +28,8 @@ Seja bem-vindo!👽
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-  <sub>Vamos nos conectar! Prometo que não mando spam 😄</sub>
+  <sub>Vamos nos conectar!</sub><br/>
+  <sub>Prometo que não mando spam 😄</sub>
 
 </div>
 <br/>
