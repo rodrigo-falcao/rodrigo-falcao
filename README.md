@@ -10,8 +10,8 @@ tenho pós graduação em Análise e Desenvolvimento de Sistemas! 🎓💻<br/>
 Atualmente, estou imerso no maravilhoso e caótico universo da programação!🧟‍♂️🧠<br/>
 Estudando, codando, quebrando a cabeça (e resolvendo também, tá?) <br/>
 pra me tornar um legítimo **`Desenvolvedor FullStack!!`** 🚀🔥<br/>
-Aqui é o meu cantinho no GitHub onde compartilho minhas aventuras, <br/>
-aprendizados e talvez até uns bugs **lendários.** 🐞<br/>
+Aqui é o meu cantinho no GitHub onde compartilho minhas <br/>
+aventuras, aprendizados e talvez até uns bugs **lendários.** 🐞<br/>
 Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tech comigo!<br/>
 Seja bem-vindo!👽
 <br/>
