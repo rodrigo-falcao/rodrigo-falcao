@@ -54,7 +54,7 @@ Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tec
 <h3><strong>🚧 Área em construção</strong></h3>
 </div>
 <div align="center">
-<img height="180" width="49%" max-width="250" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs,prs" /> 
-<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=contribs,prs&card_width=80px" /> 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
 
