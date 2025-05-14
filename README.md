@@ -31,7 +31,6 @@ Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tec
   <sub>Prometo que não mando spam 😄</sub>
 </div>
 <br/>
-<br/>
 <div align="center">
   <h3>🧪 Minhas armas secretas (também conhecidas como linguagens e tecnologias)  </h3>
 </div>
@@ -51,7 +50,7 @@ Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tec
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 </div>
-<br/><br/><br/>
+<br/>
 <div align="center">
 <h3><strong>🚧 Área em construção</strong></h3>
 </div>
@@ -59,5 +58,5 @@ Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tec
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&cache_seconds=18000" /> 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&theme=one_dark_pro&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=18000" />
 </div>
-
+<br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&height=120&section=footer"/>
