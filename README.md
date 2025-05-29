@@ -4,7 +4,6 @@
 </div>
 <br/>
 <img width="200px" align="right" src="https://github.com/user-attachments/assets/49b02918-ee24-4c9b-8978-a96b30eab3cc">
-<br/>
 
 Olá ser humano! Tudo certo por aí? 👋😄<br/>
 Me chamo **Rodrigo Falcão**👨🏼‍💻, tenho 32 anos!<br/>
