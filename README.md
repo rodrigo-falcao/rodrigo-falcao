@@ -51,7 +51,6 @@ Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tec
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 </div>
-<br/>
 <div align="center">
 <h3><strong>🚧 Área em construção</strong></h3>
 </div>
