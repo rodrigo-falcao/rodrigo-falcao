@@ -59,5 +59,4 @@ Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tec
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&theme=one_dark_pro&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=18000" />
 </div>
 <br/>
-<br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&height=120&section=footer"/>
