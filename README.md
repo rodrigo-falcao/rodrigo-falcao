@@ -9,7 +9,7 @@ Olá ser humano! Tudo certo por aí? 👋😄<br/>
 Me chamo **Rodrigo Falcão**👨🏼‍💻, tenho 32 anos!<br/>
 Sou formado em Administração de Empresas🎓 e <br/>
 sou pós graduado em Análise e Desenvolvimento de Sistemas! 💻<br/>
-Atualmente, estou imerso no maravilhoso e caótico universo da programação!🧟‍♂️🧠<br/>
+Estou imerso no maravilhoso e caótico universo da programação!🧟‍♂️🧠<br/>
 Hoje atuo como **`Desenvolvedor Fullstack`**, trabalhando tanto no `front-end` quando no `back-end`.<br/>
 Priorizo a escrita de códigos limpos, bem estruturados e que realmente entreguem valor. 🚀🔥<br/>
 Aqui é o meu cantinho no GitHub onde compartilho minhas <br/>
