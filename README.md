@@ -23,7 +23,6 @@ Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tec
 <a href="https://www.linkedin.com/in/rodrigo-falcao-ferreira/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
   <sub>Vamos nos conectar!</sub>
 	<br/>
   <sub>Prometo que não mando spam 😄</sub>
