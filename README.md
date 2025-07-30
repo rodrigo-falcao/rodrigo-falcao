@@ -30,7 +30,8 @@ Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tec
 </div>
 <br/>
 <div align="center">
-  <h3>🧪 Minhas armas secretas (também conhecidas como linguagens e tecnologias)  </h3>
+  <h3>Tecnologias que uso para invocar soluções</h3>
+  <p><em>(Compiladas com dedicação, testadas em batalhas e energizadas com café!)</em></p>
 </div>
 <div align="center">
 	</code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
