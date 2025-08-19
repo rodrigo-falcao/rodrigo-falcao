@@ -15,7 +15,7 @@ Aqui é o meu cantinho no GitHub onde compartilho minhas <br/>
 aventuras, aprendizados e talvez até uns bugs **lendários.** 🐞<br/>
 Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tech comigo!<br/>
 #### Seja bem-vindo!! 👽
-<br/><br/>
+<br/>
 
 <div align="center">
   <h3> 🌐 Me encontra lá no LinkedIn também!</h3>
