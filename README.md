@@ -58,7 +58,7 @@ Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tec
 <h3><strong>🚧 Área em construção</strong></h3>
 </div>
 <div align="center">
-	<img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show=prs_merged_percentage&theme=dracula&hide=contribs&include_all_commits=true&rank_icon=github"/> 
+	<img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show=prs_merged_percentage&hide=contribs&theme=dracula&include_all_commits=true&rank_icon=github"/> 
 	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&theme=dracula&layout=donut&custom_title=Tecnologias&langs_count=9"/>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&height=120&section=footer"/>
