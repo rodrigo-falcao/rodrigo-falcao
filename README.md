@@ -54,9 +54,7 @@ Sinta-se em casa, puxe uma cadeira (ou um pull request) e bora nessa jornada tec
 <div align="center">
 <h3><strong>🚧 Área em construção</strong></h3>
 </div>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rodrigo-falcao.rodrigo-falcao&"  />
-</div>
+
 <div align="center">
 	<img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigo-falcao&show=prs_merged_percentage&hide=contribs&theme=tokyonight&include_all_commits=true&rank_icon=github"/> 
 	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-falcao&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=9"/>
